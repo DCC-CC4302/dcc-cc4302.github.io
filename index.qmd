@@ -1,0 +1,10 @@
+---
+title: "Sistemas Operativos"
+---
+
+## Auxiliares
+- Introducción a Pthreads ([Sección 1](aux/1/1/main))
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
